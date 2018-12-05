@@ -15,12 +15,14 @@
 	<classpathentry kind="lib" path="D:/software/ssm/spring/spring-framework-4.3.2.RELEASE/libs/spring-context-support-4.3.2.RELEASE.jar"/>
 	<classpathentry kind="lib" path="D:/software/ssm/spring/spring-framework-4.3.2.RELEASE/libs/spring-jdbc-4.3.2.RELEASE.jar"/>
 	<classpathentry kind="lib" path="D:/software/ssm/spring/spring-framework-4.3.2.RELEASE/libs/spring-tx-4.3.2.RELEASE.jar"/>
-	<classpathentry kind="lib" path="D:/software/ssm/spring/spring-framework-4.3.2.RELEASE/libs/spring-context-4.3.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/software/ssm/spring/spring-framework-4.3.2.RELEASE/libs/spring-context-4.3.2.RELEASE.jar" sourcepath="D:/software/ssm/spring/spring-framework-4.3.2.RELEASE/libs/spring-context-4.3.2.RELEASE-sources.jar"/>
 	<classpathentry kind="lib" path="D:/software/ssm/spring/spring-framework-4.3.2.RELEASE/libs/spring-expression-4.3.2.RELEASE.jar"/>
 	<classpathentry kind="lib" path="D:/software/ssm/spring/spring-framework-4.3.2.RELEASE/libs/spring-instrument-4.3.2.RELEASE.jar"/>
 	<classpathentry kind="lib" path="D:/software/ssm/spring/spring-framework-4.3.2.RELEASE/libs/spring-aop-4.3.2.RELEASE.jar"/>
-	<classpathentry kind="lib" path="D:/software/ssm/spring/spring-framework-4.3.2.RELEASE/libs/spring-beans-4.3.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/software/ssm/spring/spring-framework-4.3.2.RELEASE/libs/spring-beans-4.3.2.RELEASE.jar" sourcepath="D:/software/ssm/spring/spring-framework-4.3.2.RELEASE/libs/spring-beans-4.3.2.RELEASE-sources.jar"/>
 	<classpathentry kind="lib" path="D:/software/ssm/spring/spring-framework-4.3.2.RELEASE/libs/spring-core-4.3.2.RELEASE.jar"/>
 	<classpathentry kind="lib" path="D:/software/ssm/commonlogging/commons-logging-1.2/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/software/ssm/c3p0-0.9.5.2/lib/c3p0-0.9.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/software/ssm/project-lib/mysql-connector-java-5.1.23-bin.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
