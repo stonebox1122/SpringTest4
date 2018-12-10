@@ -123,6 +123,11 @@ public class JDBCTest {
 		namedParameterJdbcTemplate.update(sql, paramMap);
 	}
 	
+	/**
+	 * 使用具名参数时，可以使用update(String sql, SqlParameterSource paramSource)方法进行更新操作
+	 * 1.SQL语句中的参数名和类的属性一致！
+	 * 2.使用SqlParameterSource的BeanPropertySqlParameterSource实现类作为参数
+	 */
 	@Test
 	public void testNamedParameterJdbcTemplate2() {
 		String sql = "insert into t_user(id,user_name,password) values(:id,:userName,:password)";
