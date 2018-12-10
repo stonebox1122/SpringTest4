@@ -27,5 +27,6 @@
 	<classpathentry kind="lib" path="D:/software/ssm/project-lib/aopalliance-1.0.jar"/>
 	<classpathentry kind="lib" path="D:/software/ssm/project-lib/aspectjweaver-1.9.2.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="D:/app/Administrator/product/11.2.0/client_1/jdbc/lib/ojdbc6_g.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
